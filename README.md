@@ -2,6 +2,8 @@
 
 A ComfyUI custom node that detects edges and features using **Phase Congruency**, an illumination-invariant and contrast-invariant feature detector based on the coherence of Fourier phase components across multiple scales and orientations (Kovesi, 1999).
 
+![이미지 스펙트럼 예시](https://github.com/bemoregt/ComfyUI_PhaseCongruencyEdge/blob/main/ScrShot%207.png)
+
 ---
 
 ## What is Phase Congruency?
